@@ -1,5 +1,5 @@
 # HTML5 Semantic Containers Code-along
-
+ 
 ## Objectives
 
 1. Surround existing content with HTML5 Semantic Elements
